@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zoelynne
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, HTML and CSS
-- 💞️ I’m looking to collaborate on opensource
-- 📫 How to reach me ... zoelynneh
+- 🌱 I’m currently learning cibersecurity and frontend tech
+- 💞️ I’m looking to work on cibersecurity
+- 📫 How to reach me ... zoelynneh or zoelynne
 
 <!---
 zoelynne/zoelynne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
