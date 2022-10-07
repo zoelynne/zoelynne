@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zoelynne
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Cibersecurity, Web Development and Web3
 - 🌱 I’m currently learning cibersecurity and frontend tech
 - 💞️ I’m looking to work on cibersecurity
 - 📫 How to reach me ... zoelynneh or zoelynne
